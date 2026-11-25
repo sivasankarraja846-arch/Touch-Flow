@@ -1,0 +1,1 @@
+- Keep the TouchFlow dashboard frontend-only and represent live system states with client-side UI data, because API endpoints and core functionality must remain unchanged.
